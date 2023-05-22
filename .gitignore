@@ -1,1 +1,10 @@
-dataset/
+dataset/clean_images/*
+!dataset/clean_images/.gitkeep
+
+dataset/resized_images
+dataset/standardized_images
+dataset/featured_images
+
+
+
+
